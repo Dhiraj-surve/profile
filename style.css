@@ -1,0 +1,134 @@
+body{
+    text-align: center;
+    margin: 0px;
+    
+}
+.top-container{
+    background-color: #e0f7f2;
+    padding-top: 100px;
+}
+h1{
+    font-family:  Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    text-align: center;
+    font-size: 500%;
+    margin-bottom: 10px;
+    color: #66BFBF;
+    line-height: 50px ;
+}
+.h2{
+    text-align: center;
+    color:#66BFBF;
+    padding: 0;
+    font-size: 300%;
+    font-weight: 600;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    margin: 20px auto 0 auto;
+    font-weight: normal;
+
+}
+.para1{
+    width: 25%;
+    font-weight: 600;
+    color: #40514E;
+    margin: 30px auto 30px auto;
+    line-height: 2;
+}
+hr{
+    color: white;
+    border-top: solid 5px gray ;
+    width: 3%;
+    border-style: dotted;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+h2{
+    text-align: center;
+    color:#66BFBF;
+    padding: 0;
+    font-size: 300%;
+    font-weight: 600;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    margin: 50px auto 40px auto;
+    font-weight: normal;
+
+}
+.skill-row{
+    width: 40%;
+    position: relative;
+    line-height: 2;
+    text-align: left;
+    margin: 50px auto 30px auto;
+
+}
+
+.skill{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill2{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+a{
+    color: #11999E;
+}
+.photo{
+    padding-top: 20px;
+    width: 200px;
+    margin: 20px auto 0 auto;
+}
+
+
+
+
+.top-cloud{
+    position: relative;
+    left: 250px;
+
+}
+.bottom-cloud{
+    position: absolute;
+}
+
+.footer-link{
+    margin-left:40px;
+    text-decoration:none;
+}
+.footer-link:hover{
+    color: rgb(223, 241, 247);
+}
+.bottom-container{
+    background-color: #5ed6d6;
+    margin-top: 50px;
+    padding: 30px;
+}
+.sedond-last-para{
+    margin-bottom: 50px;
+}
+
+.btn{
+    margin-top: 50px;
+    border: solid 2px #339983;
+    background-color: #5ec2a4;
+    font-size: 25px;
+    font-weight: 400;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 30px;
+}
+.btn:hover{
+    background-color: #55dabd ;
+    border: solid 4px #0aecbb;
+}
+.last-para{
+    padding-top: 30px;
+    margin-top: 0;
+    color: white;
+    font-size: 10;
+}
